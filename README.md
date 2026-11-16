@@ -58,9 +58,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=xd-luckyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&icon_color=00C6FF&text_color=E6E6FA"/>
+<!-- <img width="49%" src="https://github-stats-extended.vercel.app/api?username=xd-luckyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&icon_color=00C6FF&text_color=E6E6FA"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-luckyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&text_color=E6E6FA"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd-luckyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=090014&title_color=BB86FC&text_color=E6E6FA"/> -->
 
 <br/><br/>
 
